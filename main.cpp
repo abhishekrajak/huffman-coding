@@ -93,7 +93,7 @@ int read_char(Queue* Queue_Data, char data[], int i){
             }
         }
         printf(" '%c' = %d\n", ch, freq);  /*unique character and frequency*/
-        ascii_bits+=7;      /*Since 1 a.s.c.i.i char takes 7 bits*/
+        ascii_bits += 8;      /*Since 1 a.s.c.i.i char takes 8 bits*/
         ptr = (Node*)malloc(sizeof(Node));  /*Node creation for Priority Queue*/
         ptr->ch = ch;
         ptr->freq = freq;
