@@ -1,4 +1,4 @@
-C:\Users\abhis\AppData\Local\JetBrains\Toolbox\apps\CLion\ch-0\193.6911.21\bin\cmake\win\bin\cmake.exe -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - MinGW Makefiles" C:\Users\abhis\CLionProjects\codechef
+C:\Users\abhis\AppData\Local\JetBrains\Toolbox\apps\CLion\ch-0\203.7717.62\bin\cmake\win\bin\cmake.exe -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - MinGW Makefiles" D:\huffman-coding
 -- Configuring done
 -- Generating done
--- Build files have been written to: C:/Users/abhis/CLionProjects/codechef/cmake-build-debug
+-- Build files have been written to: D:/huffman-coding/cmake-build-debug

@@ -1,5 +1,5 @@
 file(REMOVE_RECURSE
-  "CMakeFiles/codechef.dir/main.cpp.obj"
+  "CMakeFiles/codechef.dir/main.c.obj"
   "codechef.exe"
   "codechef.exe.manifest"
   "codechef.pdb"
@@ -7,6 +7,6 @@ file(REMOVE_RECURSE
 )
 
 # Per-language clean rules from dependency scanning.
-foreach(lang CXX)
+foreach(lang C)
   include(CMakeFiles/codechef.dir/cmake_clean_${lang}.cmake OPTIONAL)
 endforeach()
